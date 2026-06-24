@@ -1,8 +1,9 @@
-# Data-Loading-Importation
-This is a repository containing Data Loading in Data analysis for a wide range of  Datasets 
 # Kajiado County Voter Statistics Analysis
 
 Analysis of voter registration statistics in Kajiado County, Kenya, with a focus on Kajiado North Constituency. The notebook cleans, explores, and engineers features from raw voter data for demographic insight and machine learning applications.
+
+# Data-Loading-Importation
+This is a repository containing Data Loading in Data analysis for a wide range of  Datasets 
 
 ## Dataset
 
